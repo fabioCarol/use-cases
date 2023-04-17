@@ -1,3 +1,8 @@
+# POC casos de uso
+
+```sh
+npm run dev
+```
 ## O que fizemos
 
 Criamos uma nova app next js com TS
